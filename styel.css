@@ -1,0 +1,238 @@
+.a {
+
+    color: black;
+    font-size: 30px;
+    margin-left: 70px;
+}
+
+.b {
+    color: rgb(0, 225, 255);
+    font-size: 30px;
+    margin-right: 70px;
+}
+
+.c {
+    margin-left: 800px;
+    display: flex;
+}
+
+.d {
+    text-align: center;
+    align-content: center;
+    color: white;
+
+}
+
+.e {
+    margin-right: -120px;
+
+
+
+    position: absolute;
+}
+
+.g {
+    border: 1px solid gainsboro;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-top: 50px;
+    color: rgb(65, 188, 225);
+}
+
+.vis {
+    color: grey;
+    text-decoration: line-through;
+}
+
+.shh {
+    color: black;
+}
+
+.h {
+    margin-left: 50px;
+    position: absolute;
+}
+
+.i {
+    margin-left: 300px;
+    position: absolute;
+}
+
+.j {
+    margin-right: 550px;
+    position: absolute;
+    display: block;
+}
+
+.k {
+    margin-left: 250px;
+    position: absolute;
+    display: block;
+}
+
+.super {
+    text-decoration: line-through;
+    color: grey;
+}
+
+.buy {
+    color: black;
+}
+
+.str {
+    text-decoration: line-through;
+    color: grey;
+}
+
+.Ave {
+    color: black;
+}
+
+.p {
+    border: 1px solid grey;
+    height: 150px;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-bottom: 500px;
+
+    position: fixed;
+}
+
+.box {
+    display: flex;
+    align-self: center;
+}
+
+.l {
+    margin-left: 180px;
+    color: black;
+}
+
+.lea {
+    border: 1px solid grey;
+    height: 20px;
+    width: 260;
+    border-radius: 10px;
+    background-color: rgb(194, 185, 185);
+    color: rgb(36, 34, 34);
+
+}
+
+.add {
+    border: 1px solid grey;
+    height: 15px;
+    width: 90px;
+    margin-left: 175px;
+    margin-top: 15px;
+    padding: 5px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    background-color: dodgerblue;
+    color: white;
+    position: absolute;
+    display: flex;
+}
+
+.paris {
+    border: 1px solid gainsboro;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 250px;
+    color: rgb(65, 188, 225);
+
+
+}
+
+.lin {
+    text-decoration: none;
+    color: rgba(20, 19, 19, 0.842);
+
+    padding-bottom: 30px;
+
+}
+
+.whi {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    margin: 0 auto;
+    padding-top: 6px;
+    padding-left: 10px;
+
+}
+
+.plusHead {
+    background-color: rgb(92, 92, 238);
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+
+
+}
+
+.ttt {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.tyty {
+    margin-bottom: px;
+    text-align: center;
+}
+
+.arrow {
+    color: white;
+    text-decoration: none;
+}
+
+.back {
+    color: rgba(20, 19, 19, 0.842);
+    text-decoration: none;
+}
+
+.pop {
+    margin-left: 200px;
+    display: flex;
+
+}
+
+.plusHea {
+    background-color: rgb(92, 92, 238);
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+}
+
+.tt {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.po {
+    margin-left: 200px;
+    display: flex;
+
+}
+
+.plusHe {
+    background-color: rgba(20, 19, 19, 0.842);
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+}
+
+.at {
+    margin-left: 1px;
+    margin-top: 1px;
+}
+
+.par {
+    text-align: center;
+}
